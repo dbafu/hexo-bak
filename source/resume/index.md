@@ -8,6 +8,8 @@ date: 2017-07-29 09:18:32
 
   - 付腾飞/男/1987
 
+  - 手机：18917596316 QQ/Wechat: 2899109958
+
   - 本科/周口师范学院
 
   - 工作年限：2年
@@ -40,37 +42,37 @@ date: 2017-07-29 09:18:32
 <br>
 
 以下均为我熟练使用的技能
-  - 熟悉pyspider/scrapy 框架, 
+  - 熟悉pyspider/scrapy 框架;
   - 熟练使用正则表达式，XPATH，CSS_SELECTOR，能够从结构化或非结构化数据中获取信息；
   - 熟悉MySQL/SQL,熟悉Redis或MongoDB；
   - Python：flask, urllib, pyquery, re, selenium, phantomjs,
-  - Linux：Bash/Shell Script  在win，Linux，Mac 均可以工作
+  - Linux：Bash/Shell Script  在 Win，Linux，Mac 均可以工作;
   - 了解各种Web前端技术，包括XHTML/XML/CSS/JavaScript/AJAX等；
-  - 英语：英语还行，可以阅读英文
+  - 英语：英语还行，可以阅读英文;
 
-<br><br>
-
-
-## 工作经历
 <br>
-。。。
-<br><br>
 
 ## 开源项目和作品
 <br>
 https://github.com/dbafu/spiders
 <br><br>
 
-
+## 工作经历
+<br>
+。。。
+<br><br>
 
 
 ## 致谢
-
+<br>
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-
+<br><br>
 
 ## reference
 
+<br><br><br><br>
+
 ----------------
+2017年10月24日18:10:38
 
 
