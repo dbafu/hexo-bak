@@ -16,7 +16,7 @@ date: 2017-07-29 09:18:32
 
   - Github：https://github.com/dbafu
 
-  - 期望职位：Python程序员，Mysql DBA
+  - 期望职位：Python爬虫
 
   - 期望薪资：税前月薪10k~15k，特别喜欢的公司可例外
 
