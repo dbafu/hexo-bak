@@ -15,20 +15,20 @@ Sample Markdown Cheat Sheet
 
 一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。
 
-  
-  
+
+
 
 ### 标题状态
 
----
-
 <img src="http://ww2.sinaimg.cn/bmiddle/88070423gw1ep30aw8an7g204d04gkgd.gif" width="600" height="600" alt="亦菲表演机器猫"/>
 
+<!--more-->
 
 
 This is a sample markdown file to help you write Markdown quickly :)
 
 If you use the fabulous [Sublime Text 2/3 editor][ST] along with the [Markdown Preview plugin][MarkdownPreview], open your ST2 Palette with `CMD+⇧+P` then choose `Markdown Preview in browser` to see the result in your browser.
+
 
 ## Text basics
 this is *italic* and this is **bold** .  another _italic_ and another __bold__
