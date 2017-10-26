@@ -15,6 +15,7 @@ Sample Markdown Cheat Sheet
 
 一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。
 
+<!--more-->
 
 
 
@@ -22,7 +23,6 @@ Sample Markdown Cheat Sheet
 
 <img src="http://ww2.sinaimg.cn/bmiddle/88070423gw1ep30aw8an7g204d04gkgd.gif" width="600" height="600" alt="亦菲表演机器猫"/>
 
-<!--more-->
 
 
 This is a sample markdown file to help you write Markdown quickly :)

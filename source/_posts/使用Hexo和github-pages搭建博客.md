@@ -2,7 +2,7 @@
 title: 使用Hexo和github pages搭建博客
 permalink: use-hexo-and-github-pages-to-build-blogs
 categories:
-  - blog
+  - hexo
 tags:
   - hexo
 date: 2017-10-26 15:28:49

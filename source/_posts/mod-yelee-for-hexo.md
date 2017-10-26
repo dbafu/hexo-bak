@@ -1,6 +1,8 @@
 ---
 title: hexo更换主题并个性化定制
-tags: test
+categories:
+  - hexo
+tags: hexo插件
 permalink: hexo-change-theme-and-personalize-custom
 date: 2017-07-09 14:37:26
 ---
