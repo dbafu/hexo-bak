@@ -1,6 +1,6 @@
 ---
 title: 使用Hexo和github pages搭建博客
-permalink: use-hexo-and-github-pages-to-build-blogs
+permalink: build-a-blog-using-hexo-and-github-pages
 categories:
   - hexo
 tags:

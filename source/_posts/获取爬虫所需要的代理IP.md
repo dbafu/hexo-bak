@@ -5,7 +5,7 @@ categories:
 tags:
   - 代理
   - 爬虫
-permalink: get-the-proxy-ip-required-for-the-crawler
+permalink: obtain-the-proxy-ip-neded-for-the-crawler
 date: 2017-10-26 18:29:49
 ---
 

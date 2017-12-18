@@ -1,6 +1,6 @@
 ---
 title: hexo博客添加常用插件
-permalink: hexo-blog-ad-comonly-used-plugin
+permalink: hexo-blog-to-ad-comon-plug-ins
 categories:
   - hexo
 tags: hexo插件

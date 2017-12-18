@@ -3,7 +3,7 @@ title: hexo更换主题并个性化定制
 categories:
   - hexo
 tags: hexo插件
-permalink: hexo-change-theme-and-personalize-custom
+permalink: hexo-change-the-theme-and-customization
 date: 2017-07-09 14:37:26
 ---
 
